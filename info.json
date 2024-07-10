@@ -1,0 +1,106 @@
+[
+    {
+        "file": "./scripts/AirVelo.java",
+        "credit": "Creeper215, fixed by joseph2015123 for xia-mc"
+    },
+    {
+        "file": "./scripts/AntiVoid.java",
+        "credit": "syuto"
+    },
+    {
+        "file": "./scripts/ArrayList_1.java",
+        "credit": "mic, yogi"
+    },
+    {
+        "file": "./scripts/ArrayList_2.java",
+        "credit": "Unknown"
+    },
+    {
+        "file": "./scripts/BlinkFall.java",
+        "credit": "Unknown"
+    },
+    {
+        "file": "./scripts/BlinkNoFall.java",
+        "credit": "Unknown"
+    },
+    {
+        "file": "./scripts/DamageSpeed_AirVeloFix.java",
+        "credit": "Syuto"
+    },
+    {
+        "file": "./scripts/FastScaffold.java",
+        "credit": "Unknown"
+    },
+    {
+        "file": "./scripts/FBFly.java",
+        "credit": "Unknown"
+    },
+    {
+        "file": "./scripts/FPS.java",
+        "credit": "Croat"
+    },
+    {
+        "file": "./scripts/Health.java",
+        "credit": "Unknown"
+    },
+    {
+        "file": "./scripts/HealthIndicatorV3.java",
+        "credit": "bypassfdp"
+    },
+    {
+        "file": "./scripts/HighFbFly.java",
+        "credit": "Unknown"
+    },
+    {
+        "file": "./scripts/HypixelTower.java",
+        "credit": "Unknown"
+    },
+    {
+        "file": "./scripts/AntiSniper.java",
+        "credit": "Unknown"
+    },
+    {
+        "file": "./scripts/lhops_1.java",
+        "credit": "Unknown"
+    },
+    {
+        "file": "./scripts/lhops_2.java",
+        "credit": "Unknown"
+    },
+    {
+        "file": "./scripts/LowHop.java",
+        "credit": "Unknown"
+    },
+    {
+        "file": "./scripts/LowHopTower.java",
+        "credit": "allah_c4, ducadamul"
+    },
+    {
+        "file": "./scripts/NCPTower.java",
+        "credit": "twenty48"
+    },
+    {
+        "file": "./scripts/SafeWalkFix.java",
+        "credit": "Unknown"
+    },
+    {
+        "file": "./scripts/ScaffoldAddon.java",
+        "credit": "ZEBFIRE"
+    },
+    {
+        "file": "./scripts/SwInvMove.java",
+        "credit": "Unknown"
+    },
+    {
+        "file": "./scripts/SwitchItemNoSlow.java",
+        "credit": "twenty48"
+    },
+    {
+        "file": "./scripts/TowerToggle.java",
+        "credit": "Unknown"
+    },
+    {
+        "file": "./scripts/VertFbFly.java",
+        "credit": "Unknown"
+    }
+]
